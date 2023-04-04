@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning NodeJS, Nest, React.<br>⚡ Fun fact: it's fun fact.
+🌱 I’m currently learning NodeJS, Nest, React.
 
 
 ## 🌐 Socials:
